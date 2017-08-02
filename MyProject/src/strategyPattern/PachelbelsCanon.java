@@ -1,12 +1,12 @@
-package quest2;
+package strategyPattern;
 
-public class NoPiece implements PieceOfMusic {
+public class PachelbelsCanon implements PieceOfMusic {
 	// Properties
 	private String composer;
 	
 	// Constructors
-	public NoPiece() {
-		composer = "";
+	public PachelbelsCanon() {
+		composer = "Johann Pachelbel";
 	}
 	
 	// Getters and Setters
@@ -16,6 +16,6 @@ public class NoPiece implements PieceOfMusic {
 
 	// Interface Implementation
 	public void playMusic() {
-		System.out.println("Nothing to play!");
+		System.out.println("<< Pachelbel's Canon >>");
 	}
 }

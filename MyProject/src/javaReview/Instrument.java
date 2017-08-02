@@ -1,4 +1,4 @@
-package quest1;
+package javaReview;
 
 import java.io.BufferedReader;
 import java.io.IOException;

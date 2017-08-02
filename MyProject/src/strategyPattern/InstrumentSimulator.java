@@ -1,4 +1,4 @@
-package quest2;
+package strategyPattern;
 
 public class InstrumentSimulator {
 
