@@ -1,4 +1,4 @@
-package Part1;
+package MidtermPart1;
 // The Abstract Builder
 public abstract class MidSizeCarBuilder {
 	BrandNewCar brandNewCar;

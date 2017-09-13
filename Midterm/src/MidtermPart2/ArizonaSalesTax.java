@@ -1,4 +1,4 @@
-package Part2;
+package MidtermPart2;
 
 public class ArizonaSalesTax implements SalesTax {
 	public double setSalesTax() {

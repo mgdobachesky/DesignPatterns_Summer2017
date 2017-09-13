@@ -1,4 +1,4 @@
-package Part2;
+package MidtermPart2;
 
 public interface SalesTax {
 	public double setSalesTax();

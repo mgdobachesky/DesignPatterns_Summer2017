@@ -1,4 +1,4 @@
-package Part1;
+package MidtermPart1;
 // The Product - this is what will be builded
 public class BrandNewCar {
 

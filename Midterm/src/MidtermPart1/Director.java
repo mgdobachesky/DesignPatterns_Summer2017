@@ -1,4 +1,4 @@
-package Part1;
+package MidtermPart1;
 
 public class Director {
 	public static void main(String[] args) {

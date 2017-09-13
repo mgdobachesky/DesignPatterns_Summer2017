@@ -1,4 +1,4 @@
-package Part2;
+package MidtermPart2;
 
 public class SalesMarketForecast {
 	private final double price = 80.0;

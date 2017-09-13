@@ -1,4 +1,4 @@
-package Part1;
+package MidtermPart1;
 
 public abstract class Part {
 	String partID;
